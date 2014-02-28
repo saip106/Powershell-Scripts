@@ -6,6 +6,8 @@ Set-Alias which Get-Command
 Set-Alias lime "C:\Program Files\Sublime Text 2\sublime_text.exe"
 Set-Alias web "C:\Program Files (x86)\JetBrains\WebStorm 5.0.4\bin\webstorm.exe"
 Set-Alias note "C:\Program Files\Notepad2\notepad2.exe"
+Set-Alias note++ "C:\Program Files (x86)\Notepad++\notepad++.exe"
+Set-Alias notepad++ "C:\Program Files (x86)\Notepad++\notepad++.exe"
 
 function cd_to_sandbox { set-location "C:\projects\sandbox" }
 Set-Alias sand cd_to_sandbox
