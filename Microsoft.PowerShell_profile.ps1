@@ -24,4 +24,9 @@ function gcap($message) {
   git push origin;
 }
 
+function gac($message) {
+  git add .;
+  git commit -m $message;
+}
+
 Clear-Host
