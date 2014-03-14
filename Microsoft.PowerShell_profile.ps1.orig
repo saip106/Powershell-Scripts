@@ -9,8 +9,6 @@ Set-Alias n "C:\Program Files\Notepad2\notepad2.exe"
 Set-Alias note++ "C:\Program Files (x86)\Notepad++\notepad++.exe"
 Set-Alias n++ "C:\Program Files (x86)\Notepad++\notepad++.exe"
 Set-Alias s "C:\Program Files\Sublime Text 3\sublime_text.exe"
-Set-Alias note++ "C:\Program Files (x86)\Notepad++\notepad++.exe"
-Set-Alias notepad++ "C:\Program Files (x86)\Notepad++\notepad++.exe"
 
 function cd_to_sandbox { set-location "C:\projects\sandbox" }
 Set-Alias sand cd_to_sandbox
